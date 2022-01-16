@@ -1,1 +1,2 @@
 print('жаба')
+print('klava')
